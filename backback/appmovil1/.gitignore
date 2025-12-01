@@ -1,0 +1,23 @@
+# Compiled class files and packages
+/target/
+*.jar
+*.war
+*.ear
+
+# Log files
+*.log
+
+# IDE configuration files
+.idea/
+*.iml
+*.iws
+.classpath
+.project
+.settings/
+nbproject/
+
+# Maven wrapper logs
+.mvn/wrapper/maven-wrapper.jar
+
+# Virtual machine crash logs
+hs_err_pid*
